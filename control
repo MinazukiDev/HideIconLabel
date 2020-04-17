@@ -1,0 +1,10 @@
+Package: com.minazuki.hideiconlabel
+Name: HideIconLabel
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Hide the icon label.
+Depiction: https://minazukidev.github.io/html/HideIconLabel/index.html
+Maintainer: Minazuki <minazukidev@gmail.com>
+Author: Minazuki <minazukidev@gmail.com>
+Section: Tweaks
